@@ -1,0 +1,26 @@
+# Ignore files and directories commonly excluded in .NET projects
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+
+# Visual Studio specific files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.vspscc
+*.vssscc
+
+# Rider specific files
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Scratch files or console logs
+Scratches and Consoles
